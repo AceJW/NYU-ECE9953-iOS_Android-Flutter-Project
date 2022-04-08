@@ -1,4 +1,6 @@
-# NYU-ECE9953-Advanced-Project-Spring-2022
+# NYU-ECE9953-Android-Flutter-Project-Spring-2022
+
+This is a working Android Flutter project.
 
 This project is only for presentation and learning.
 
