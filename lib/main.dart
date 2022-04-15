@@ -1,6 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:get/get_navigation/src/root/get_material_app.dart';
-import 'package:nyu_advanced_project_1/home/main_food_page.dart';
+import 'package:nyu_advanced_project_1/pages/food/popular_food_detail.dart';
+import 'package:nyu_advanced_project_1/pages/food/recommeneded_food_detail.dart';
+import 'package:nyu_advanced_project_1/pages/home/main_food_page.dart';
+import 'package:nyu_advanced_project_1/pages/home/main_food_page.dart';
 
 void main() {
   print("yes");
@@ -27,7 +30,8 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: MainFoodPage(),
+      home: RecommenededFoodDetail(),
+      //home: MainFoodPage(),
     );
   }
 }

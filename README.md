@@ -1,11 +1,16 @@
-# NYU-ECE9953-Android-Flutter-Project-Spring-2022
+# nyu_advanced_project_1
 
-This is an incompleted Android Flutter project.
+A new Flutter project.
 
-This project is only for presentation and learning.
+## Getting Started
 
-Professor Brandon Reagen is the advisor of the project.
+This project is a starting point for a Flutter application.
 
-The project is developed by Jiahao Wang and Jiazhao Shi.
+A few resources to get you started if this is your first Flutter project:
 
-DON'T COPY THE CODE TO CHEAT. YOU WILL VIOLATE THE ACADEMIC INTEGRITY.
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
